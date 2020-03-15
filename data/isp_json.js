@@ -1,0 +1,110 @@
+module.exports = [
+	{
+		id: "bsnl",
+		name: "BSNL",
+		lowest_price: "500",
+		rating: "3.5",
+		max_speed: "40mbps", 
+		description: "Bharat Sanchar Nigam Limited, d/b/a BSNL is an Indian state-owned telecommunications company. It provides mobile voice and internet services through its nationwide telecommunications network across India",
+		contact_nummber: 88008898024,
+		email: "bsnl@ispprovider.com",
+		image: "bsnl.png",
+		url: "https://www.bsnl.co.in/"
+	},
+	{
+		id: "airtel",
+		name: "Airtel",
+		lowest_price: "899",
+		rating: "4",
+		max_speed: "60mbps", 
+		description: "Buy Airtel Broadband unlimited plans. Get Amazon Prime for an year at no extra cost. Enjoy upto 100 Mbps superfast Internet with free router and unlimited calls.",
+		contact_nummber: 99008898024,
+		email: "airtel@ispprovider.com",
+		image: "airtel.png",
+		url: "https://www.airtel.in/broadband/delhi"
+	},
+	{
+		id: "hathway",
+		name: "Hathway",
+		lowest_price: "759",
+		rating: "3",
+		max_speed: "50mbps", 
+		description: "Hathway is the leading Digital Cable TV & Broadband Internet Service provider in India. Offers Cable Television services, high-speed Cable & Fiber Broadband.",
+		contact_nummber: 88008898024,
+		email: "hathway@ispprovider.com",
+		image: "hathway.png",
+		url: "https://www.hathway.com/"
+	},
+	{
+		id: "bbnl",
+		name: "BBNL/BNET",
+		lowest_price: "999",
+		rating: "2.5",
+		max_speed: "30mbps", 
+		description: "BBNL, is a Telecom infrastructure provider, set up by the government of India for the establishment, management and operation of National Optical Fibre",
+		contact_nummber: 88008898024,
+		email: "bbnl@ispprovider.com",
+		image: "bbnl.png",
+		url: "http://www.bbnl.nic.in/"
+	},
+	{
+		id: "actbroadband",
+		name: "ACT Broadband",
+		lowest_price: "399",
+		rating: "3",
+		max_speed: "35mbps", 
+		description: "ACT Fibernet is India's largest wired broadband, offering internet for home and business with high speed connection.",
+		contact_nummber: 88008888024,
+		email: "act@ispprovider.com",
+		image: "act.png",
+		url: "https://www.actcorp.in/"
+	},
+	{
+		id: "youbroadband",
+		name: "YOU Broadband",
+		lowest_price: "999",
+		rating: "2.5",
+		max_speed: "30mbps", 
+		description: "Get up to 200 Mbps High Speed & unlimited internet connection from YOU Broadband - India's first ISO accredited internet service providers | Broadband ",
+		contact_nummber: 88008898990,
+		email: "you@ispprovider.com",
+		image: "you.png",
+		url: "https://youbroadband.in/"
+	},
+	{
+		id: "tikona",
+		name: "Tikona Digital Network",
+		lowest_price: "599",
+		rating: "4.5",
+		max_speed: "30mbps", 
+		description: "Tikona is one of the largest internet service provider in India. Tikona's broadband connection offers high-speed wireless internet with unlimited data internet ",
+		contact_nummber: 88338898024,
+		email: "tikona@ispprovider.com",
+		image: "tikona.png",
+		url: "https://www.tikona.in/"
+	},
+	{
+		id: "railtel",
+		name: "Railtel",
+		lowest_price: "1999",
+		rating: "2.5",
+		max_speed: "60mbps", 
+		description: "RailTel Corporation- one of the largest neutral telecom infrastructure providers in india optic fiber network on exclusive Right of Way (ROW) along Railway track",
+		contact_nummber: 88008898024,
+		email: "railtel@ispprovider.com",
+		image: "railtel.png",
+		url: "https://www.railtelindia.com/"
+	},
+	{
+		id: "reliance",
+		name: "Reliance DSL",
+		lowest_price: "799",
+		rating: "3.5",
+		max_speed: "70mbps", 
+		description: "We feel it is our duty to be good stewards of the trust you’ve placed in us by providing the most cost-effective, state-of-the-art, quality products and services available.",
+		contact_nummber: 88066898024,
+		email: "reliance@ispprovider.com",
+		image: "reliance.png",
+		url: "https://relianceconnects.com/broadband/service-packages-corbett-estacada/"
+	}		
+];
